@@ -1,4 +1,4 @@
-#Technologies used
+Technologies used
 - HTML5
 - CSS
 - JavaScript ES6 
@@ -8,8 +8,8 @@
 - Express
 - TailwindCss
 
-#deployed Url
+deployed Url
 https://ai-summerizer-parasmahla.netlify.app
 
-###Note
+Note
 Make minimum no of requests as they are limited
