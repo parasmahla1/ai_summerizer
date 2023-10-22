@@ -11,7 +11,10 @@ const Hero = () => {
         <button
           type="button"
           onClick={() =>
-            window.open("https://github.com/parasmahla1", "_blank")
+            window.open(
+              "https://github.com/parasmahla1/ai_summerizer",
+              "_blank"
+            )
           }
           className="black_btn"
         >
@@ -24,8 +27,8 @@ const Hero = () => {
         <span className="orange_gradient ">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Summarize, an article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplify your reading with Summarize, an article summarizer that
+        transforms lengthy articles into clear and concise summaries
       </h2>
     </header>
   );
