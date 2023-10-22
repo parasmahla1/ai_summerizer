@@ -8,7 +8,7 @@ Technologies used
 - Express
 - TailwindCss
 - Redux
-- 
+  
 deployed Url
 https://ai-summerizer-parasmahla.netlify.app
 
