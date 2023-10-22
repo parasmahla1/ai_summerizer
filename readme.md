@@ -12,5 +12,5 @@ Technologies used
 deployed Url
 https://ai-summerizer-parasmahla.netlify.app
 
-Note
+Note: - 
 Make minimum no of requests as they are limited
