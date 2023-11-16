@@ -1,4 +1,7 @@
-Technologies used
+# AI Summerizer
+This project aims to create an AI-powered article summarization tool that generates concise summaries of articles provided through URL inputs. Leveraging APIs available on Rapid API, this tool will offer users the ability to obtain summarized versions of lengthy articles from platforms like Medium by simply inputting the article's URL.
+
+#### Technologies used
 - HTML5
 - CSS
 - JavaScript ES6 
@@ -9,8 +12,7 @@ Technologies used
 - TailwindCss
 - Redux
   
-deployed Url
+#### deployed Url
 https://ai-summerizer-parasmahla.netlify.app
 
-Note: - 
-Make minimum no of requests as they are limited
+
